@@ -1,0 +1,23 @@
+@charset "utf-8";
+#login{
+    margin: 0 auto;
+    text-align: center;
+    height: 500px;
+}
+#pageName{
+    font-size: 2em;
+    margin: 50px 0;
+}
+#id,#pw{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+#loginbtn,#Joinbtn{
+    width: 130px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+#loginbtn{
+    margin-right: 10px;
+}

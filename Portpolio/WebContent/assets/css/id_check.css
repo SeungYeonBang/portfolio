@@ -1,0 +1,17 @@
+@charset "utf-8";
+#idCheckForm{
+    margin: 0 auto;
+    text-align: center;
+}
+#idCheck{
+    display: inline-block;
+    width: 300px;
+}
+#idCheckBtn,#useBtn{
+    width: 130px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+#useBtn{
+    margin-top: 10px;
+}

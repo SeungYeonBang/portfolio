@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/*삭제창*/
+#boardDetail{
+    margin: 0 auto;
+    text-align: center;
+}
+#passCheck{
+	width: 350px;
+    margin-bottom: 5px;
+    margin: 0 auto;
+    text-align: center;
+}
+#useBtn{
+    margin-top: 20px;
+    width: 130px;
+    font-size: 16px;
+}

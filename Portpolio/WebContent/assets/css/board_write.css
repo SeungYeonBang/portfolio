@@ -1,0 +1,28 @@
+@charset "utf-8";
+#Detail{
+    margin: 0 auto;
+    text-align: center;
+    width: 800px;
+}
+#pageName{
+    font-size: 2em;
+    margin-top: 50px;
+}
+#title{
+    margin-top: 50px;
+}
+#dmail,#name,#writeDate,#readCount,#content{
+    margin-top: 10px;
+}
+#frm{
+    margin: 0 auto;
+    text-align: center;
+}
+.btn_view{
+    width: 130px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+#content{
+    height: 300px;
+}
