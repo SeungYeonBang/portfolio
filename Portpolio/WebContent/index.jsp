@@ -114,6 +114,7 @@
 						<p>문의사항 있으시면 언제든지 연락 주세요 3일 이내로 답장 드리겠습니다. 감사합니다 ^^</p>
 						<h2> Email : <a href="http://www.naver.com">bsy3841@naver.com</a></h2>
 						<h2> Tel : 010-3950-1041</h2>
+						<a href="https://github.com/SeungYeonBang/portfolio"><img id="gitimg" alt="github" src="images/github.png"></a>
 						
 					</header>
 				</div>

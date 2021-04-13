@@ -2331,3 +2331,7 @@ input, select, textarea {
 			}
 
 		}
+		#gitimg{
+			width: 80px;
+			height: 80px;
+		}
