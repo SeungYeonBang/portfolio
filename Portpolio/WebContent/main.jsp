@@ -46,6 +46,7 @@
 					<p>List 객체 중 ArrayList객체에 제네릭 타입으로 구현 객체를 파라미터로 지정해서 사용하여 게시판을 구현하였습니다.</p>
 					<p>세션을 사용하여 로그인 유지기능 및 로그아웃 기능을 구현하였습니다.</p>
 					<input type="button" value="소스보기" onclick="open_source('web_source.jsp','web');"/>
+					<img src="images/webqr.jpg" alt="qr_code" class="qrimg"/>
 				</div>
 				<a href="#three" class="button style2 down anchored">Next</a>
 			</section>
@@ -61,6 +62,7 @@
 				<p>Handler 객체를 활용하여 Splash 화면을 구현하였습니다.</p>
 				<p>내장객체 SQLite를 활용하여 DB를 설계하고 DDL, DML, DCL 등의 명령어를 사용하여, DB를 구축하고 사용하였습니다.</p>
 				<input type="button" value="소스보기" onclick="open_source('android_source.jsp','android');"/>
+				<img src="images/androidqr.jpg" alt="qr_code" class="qrimg"/>
 			</div>
 			<a href="#work" class="button style2 down anchored">Next</a>
 		</section>
