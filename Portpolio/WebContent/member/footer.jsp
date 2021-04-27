@@ -5,7 +5,7 @@
 
 				<!-- Menu -->
 					<ul class="menu">
-						<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+						<li>&copy; Email</li><li>SeandAddress: <a href="https://www.naver.com">bsy3841@naver.com</a></li>
 					</ul>
 
 			</footer>
